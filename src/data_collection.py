@@ -11,7 +11,7 @@
 
 
 ###### Acknowledgments ##########################
-#- Preparation code borrowed for reproducibility from:
+#- Some parts of preparation code borrowed for reproducibility from:
 #  @inproceedings{wang2019bert,
     #title = "{BERT} has a Mouth, and It Must Speak: {BERT} as a {M}arkov Random Field Language Model",
     #author = "Wang, Alex  and  Cho, Kyunghyun", month = jun, year = "2019"
